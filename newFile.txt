@@ -1,1 +1,3 @@
 Just a text file to understand how local branching affects GitHub
+
+A second line of text - added in the fork
